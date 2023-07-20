@@ -53,3 +53,4 @@ Mobile Programming Team Project :
 📫 How to contact me ...
 
 - e-mail : juseung0619@gmail.com
+- LinkedIn : linkedin.com/in/주승-이-488494284
