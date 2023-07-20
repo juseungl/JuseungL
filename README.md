@@ -14,10 +14,12 @@ UNIVERSITY OF NORTHUMBRIA AT NEWCASTLE, ITMB(Information Technology Management f
 - 2023 서울 노원지역 4개 대학 연합 창업캠프
 
   
-
+- IT Service Lab 학부연구생  ( 2022 ~ )
 - 2019 서울과학기술대학교 ITM전공 인앤아웃 학생회 기획부원
 - 2020 서울과학기술대학교 ITM전공 위잉위잉 학생회 기획차장
-- IT Service Lab 학부연구생
+- 2023 Microsoft와 함께하는 대학생 AI & Cloud 러닝 캠프 by MLSA
+- 2023 하나 소셜벤처 유니버시티
+
 
 🏆 I got award ...
 
