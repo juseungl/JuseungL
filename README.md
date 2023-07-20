@@ -14,7 +14,9 @@ UNIVERSITY OF NORTHUMBRIA AT NEWCASTLE, ITMB(Information Technology Management f
 - 2023 서울 노원지역 4개 대학 연합 창업캠프
 
   
-- IT Service Lab 학부연구생  ( 2022 ~ )
+- IT Service Lab 학부연구생  ( 2022 ~ )  
+    ▷ 에너지 데이터 가이드라인(한국형 그린버튼)
+
 - 2019 서울과학기술대학교 ITM전공 인앤아웃 학생회 기획부원
 - 2020 서울과학기술대학교 ITM전공 위잉위잉 학생회 기획차장
 - 2023 Microsoft와 함께하는 대학생 AI & Cloud 러닝 캠프 by MLSA
@@ -25,7 +27,7 @@ UNIVERSITY OF NORTHUMBRIA AT NEWCASTLE, ITMB(Information Technology Management f
 
 
 - 2022 IT 서비스 공모전(기획) (Bronze Award🥉)  
-    Idea development of "자취 메이트" that that contains everything necessary for self-employed students, such as furniture, meal kits, and a community for room transfer.
+    Idea development of "자취 메이트" that contains everything necessary for self-employed students, such as furniture, meal kits, and a community for room transfer.
     
 
 
