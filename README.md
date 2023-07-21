@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=LEE%20JUSEUNG&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=LEE%20JUSEUNG&fontSize=90)
 
 Hi, I’m LEE JUSEUNG👋
 
