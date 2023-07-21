@@ -44,13 +44,13 @@ Programming Language
 - MySQL (database management)
 - KOTLIN (mobile programming)
 - PHP / JAVASCRIPT / HTML / CSS (database practice web programming)
-- PYTHON (programming language / data mining / business analytics)
+- PYTHON ![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white) (programming language / data mining / business analytics)
 - C programming (operating systems design / computer system)
 - R (Introduction to statistical processing)
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white
 1. Python
-![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
+
 
 2. Node JS (Express)
 ![Node JS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
