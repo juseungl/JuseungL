@@ -47,6 +47,7 @@ Programming Language
 - PYTHON (programming language / data mining / business analytics)
 - C programming (operating systems design / computer system)
 - R (Introduction to statistical processing)
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 
 
 💻 I did project ...
