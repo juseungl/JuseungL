@@ -47,13 +47,15 @@ Database Practice Web Programming Team Project : Twitter User Analaytics
 Business Analytics Team Project :   
 Mobile Programming Team Project :   
 
-Programming Language  
+#Programming Language  
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white)
  ![Node JS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)  
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
- ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)    ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white)  ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)   ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)
-
+ ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)   
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)  
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white)  ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)   
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)
 - Node JS (express)
 - JAVA (spring / operating systems design)
 - MySQL (database management)
