@@ -96,4 +96,4 @@ UNIVERSITY OF NORTHUMBRIA AT NEWCASTLE, ITMB(Information Technology Management f
 📫 How to contact me ...
 
 - Email: juseung0619@gmail.com
-- LinkedIn: www.linkedin.com/in/JuseungL(https://www.linkedin.com/in/%EC%A3%BC%EC%8A%B9-%EC%9D%B4-488494284/)
+- LinkedIn: [www.linkedin.com/in/JuseungL](https://www.linkedin.com/in/%EC%A3%BC%EC%8A%B9-%EC%9D%B4-488494284/)
