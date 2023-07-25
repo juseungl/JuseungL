@@ -9,7 +9,7 @@ UNIVERSITY OF NORTHUMBRIA AT NEWCASTLE, ITMB(Information Technology Management f
 
 📔 I did ...
 
-- 2023 서울과학기술대학교 창업동아리 (하이볼을 하루에 한 잔 무료로 제공하는 “하이볼 구독 어플리케이션, 하이볼리”)  
+        - 2023 서울과학기술대학교 창업동아리 (하이볼을 하루에 한 잔 무료로 제공하는 “하이볼 구독 어플리케이션, 하이볼리”)  
     ▷ 2023 한이음 ICT 멘토링  
     ▷ 2023 창업동아리 전담 멘토링  
 
@@ -19,10 +19,12 @@ UNIVERSITY OF NORTHUMBRIA AT NEWCASTLE, ITMB(Information Technology Management f
 - IT Service Lab 학부연구생  ( 2022 ~ )  
     ▷ 에너지 데이터 가이드라인(한국형 그린버튼)
 
-- 2019 서울과학기술대학교 ITM전공 인앤아웃 학생회 기획부원
-- 2020 서울과학기술대학교 ITM전공 위잉위잉 학생회 기획차장
+
 - 2023 Microsoft와 함께하는 대학생 AI & Cloud 러닝 캠프 by MLSA
 - 2023 하나 소셜벤처 유니버시티
+- 2020 서울과학기술대학교 ITM전공 위잉위잉 학생회 기획차장
+
+- 2019 서울과학기술대학교 ITM전공 인앤아웃 학생회 기획부원
 
 
 🏆 I got award ...
