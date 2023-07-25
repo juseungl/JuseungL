@@ -41,7 +41,7 @@ UNIVERSITY OF NORTHUMBRIA AT NEWCASTLE, ITMB(Information Technology Management f
         🌱 I’m currently learning ...
 
 
-💻** I did project ...**
+💻 **I did project ...**
 
         - IT SERVICE LAB : 에너지 데이터 가이드라인(한국형 그린버튼)  
         - 창업동아리 : Highbally Application (Back End)
@@ -49,7 +49,7 @@ UNIVERSITY OF NORTHUMBRIA AT NEWCASTLE, ITMB(Information Technology Management f
         - Business Analytics Team Project :   
         - Mobile Programming Team Project :   
 
-#Programming Language  
+<div align=center><h1>📚 STACKS</h1></div>
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white)
  ![Node JS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)  
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
