@@ -82,15 +82,7 @@ UNIVERSITY OF NORTHUMBRIA AT NEWCASTLE, ITMB(Information Technology Management f
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 </div>
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white)
- ![Node JS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)  
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
- ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)   
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)  
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white)  ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)   
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)
-- Node JS (express)
+- Node JS (창업동아리)
 - JAVA (spring / operating systems design)
 - MySQL (database management)
 - KOTLIN (mobile programming)
@@ -103,5 +95,6 @@ UNIVERSITY OF NORTHUMBRIA AT NEWCASTLE, ITMB(Information Technology Management f
 
 📫 How to contact me ...
 
-- e-mail : juseung0619@gmail.com
-- LinkedIn : linkedin.com/in/주승-이-488494284
+- Email: juseung0619@gmail.com
+- LinkedIn: [linkedin.com/in/Juseung-i-488494284](https://www.linkedin.com/in/Juseung-i-488494284)
+
