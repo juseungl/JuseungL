@@ -15,6 +15,8 @@ UNIVERSITY OF NORTHUMBRIA AT NEWCASTLE, ITMB(Information Technology Management f
                 ▷ 2023 학생 창업유망팀 300 성장트랙(일반)
 
 
+        - 2023 하나 소셜벤처 유니버시티
+
         - 2023 서울 노원지역 4개 대학 연합 창업캠프
 
   
@@ -22,8 +24,8 @@ UNIVERSITY OF NORTHUMBRIA AT NEWCASTLE, ITMB(Information Technology Management f
             ▷ 에너지 데이터 가이드라인(한국형 그린버튼)
             ▷ 에너지 데이터 가이드라인(한국형 그린버튼) 평가 모델
 
+
         - 2023 Microsoft와 함께하는 대학생 AI & Cloud 러닝 캠프 by MLSA
-        - 2023 하나 소셜벤처 유니버시티
         - 2020 서울과학기술대학교 ITM전공 위잉위잉 학생회 기획차장
         - 2019 서울과학기술대학교 ITM전공 인앤아웃 학생회 기획부원
 
