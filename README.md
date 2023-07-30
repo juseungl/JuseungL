@@ -96,6 +96,8 @@ UNIVERSITY OF NORTHUMBRIA AT NEWCASTLE, ITMB(Information Technology Management f
 - R (Introduction to statistical processing)
 
 
+![JuseungL's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuseungL&show_icons=true&theme=dark)   
+
 
 📫 How to contact me ...  
 - Email: juseung0619@gmail.com
