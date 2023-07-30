@@ -97,7 +97,7 @@ UNIVERSITY OF NORTHUMBRIA AT NEWCASTLE, ITMB(Information Technology Management f
 
 
 ![JuseungL's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuseungL&show_icons=true&theme=dark)   
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuseungL&layout=compact&theme=tokyonight)
 
 📫 How to contact me ...  
 - Email: juseung0619@gmail.com
