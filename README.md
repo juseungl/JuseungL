@@ -13,19 +13,12 @@ UNIVERSITY OF NORTHUMBRIA AT NEWCASTLE, ITMB(Information Technology Management f
                 ▷ 2023 한이음 ICT 멘토링  
                 ▷ 2023 창업동아리 전담 멘토링  
                 ▷ 2023 학생 창업유망팀 300 성장트랙(일반)
-
-
-        - 2023 하나 소셜벤처 유니버시티
+                ▷ 2023 하나 소셜벤처 유니버시티
 
         - 2023 서울 노원지역 4개 대학 연합 창업캠프
-
-  
-        - IT Service Lab 학부연구생  ( 2022 ~ )  
-            ▷ 에너지 데이터 가이드라인(한국형 그린버튼)
-            ▷ 에너지 데이터 가이드라인(한국형 그린버튼) 평가 모델
-
-
+        - 2023 IT Service Lab 학부연구생
         - 2023 Microsoft와 함께하는 대학생 AI & Cloud 러닝 캠프 by MLSA
+        - 2022 IT Service Lab 학부연구생
         - 2020 서울과학기술대학교 ITM전공 위잉위잉 학생회 기획차장
         - 2019 서울과학기술대학교 ITM전공 인앤아웃 학생회 기획부원
 
@@ -39,7 +32,6 @@ UNIVERSITY OF NORTHUMBRIA AT NEWCASTLE, ITMB(Information Technology Management f
 
 ✍ **I get certified ...**
 
-
         - 컴퓨터활용능력 1급
         - IELTS 6.0/9.0
         🌱 I’m currently learning ...
@@ -47,11 +39,12 @@ UNIVERSITY OF NORTHUMBRIA AT NEWCASTLE, ITMB(Information Technology Management f
 
 💻 **I did project ...**
 
-        - IT SERVICE LAB : 에너지 데이터 가이드라인(한국형 그린버튼)  
         - 창업동아리 : Highbally Application (Back End)
         - Database Practice Web Programming Team Project : Twitter User Analaytics (Big Data Analysis)
         - Business Analytics Team Project :   
-        - Mobile Programming Team Project :   
+        - Mobile Programming Team Project : 
+        - IT SERVICE LAB : 에너지 데이터 가이드라인(한국형 그린버튼)
+        - IT SERVICE LAB : 에너지 데이터 가이드라인 평가 모델(한국형 그린버튼)    
 
 <div align=center><h1>📚 STACKS</h1></div>
 
