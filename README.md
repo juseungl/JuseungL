@@ -12,8 +12,7 @@ UNIVERSITY OF NORTHUMBRIA AT NEWCASTLE, ITMB(Information Technology Management f
         - 2023 서울과학기술대학교 창업동아리 (하이볼을 하루에 한 잔 무료로 제공하는 “하이볼 구독 어플리케이션, 하이볼리”)  
                 ▷ 2023 한이음 ICT 멘토링 
                 ▷ 2023 창업동아리 전담 멘토링 수료  
-                ▷ 2023 학생 창업유망팀 300 성장트랙(일반) 수료  
-                ▷ 2023 학생 창업유망팀 300 성장(서울) 모의투자대회  
+                ▷ 2023 학생 창업유망팀 300 성장트랙(일반) 수료   
                 ▷ 2023 하나 소셜벤처 유니버시티 수료  
 
         - 2023 서울 노원지역 4개 대학 연합 창업캠프
@@ -25,9 +24,12 @@ UNIVERSITY OF NORTHUMBRIA AT NEWCASTLE, ITMB(Information Technology Management f
 
 
 🏆 **I got award ...**
-
+        - 2023 서울 노원지역 4개 대학 연합 창업 캠프 대상 (Gold Award)
+        - 2023 학생 창업유망팀 300 성장(서울) 모의투자대회 1등
         - 2022 IT 서비스 공모전(기획) (Bronze Award🥉)  
             Idea development of "자취 메이트" that contains everything necessary for self-employed students, such as furniture, meal kits, and a community for room transfer.
+         
+
     
 
 
