@@ -26,7 +26,7 @@ UNIVERSITY OF NORTHUMBRIA AT NEWCASTLE, ITMB(Information Technology Management f
 🏆 **I got award ...**
 
         - 2023 서울 노원지역 4개 대학 연합 ESG 창업 아이디어 경진대회 (Grand Award🏅)   
-            제주도 해변에서 큰 피해를 주고 있는 구멍갈파래를 이용한 천연 염료 제작 및 판매
+            제주도 골칫덩어리 구멍갈파래를 이용한 천연 염료 제작 및 판매 플랫폼 "풀빛"
         - 2023 학생 창업유망팀 300 성장(서울) 모의투자대회 (Grand Award🏅)
         - 2022 IT 서비스 공모전(기획) (Bronze Award🥉)  
             Idea development of "자취 메이트" that contains everything necessary for self-employed students, such as furniture, meal kits, and a community for room transfer.
