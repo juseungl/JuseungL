@@ -46,10 +46,10 @@ UNIVERSITY OF NORTHUMBRIA AT NEWCASTLE, ITMB(Information Technology Management f
 
 💻 **I did project ...**
 
-        - 창업동아리 : Highbally Application (Back-End)
-        - Database Practice Web Programming Team Project : Twitter User Analaytics (Big Data Analysis)
+        - 창업동아리 : "하이볼리" Application (Back-End: Express, MYSQL)
+        - Database Practice Web Programming Team Project : "Twitter User Analaytics" - Big Data Analysis with Hadoop
         - Business Analytics Team Project :   
-        - Mobile Programming Team Project : "다녀올개" 강아지 유치원 통합 플랫폼 (Front-End & Back-End)
+        - Mobile Programming Team Project : "다녀올개" 강아지 유치원 통합 플랫폼 Application (Front-End: Android Studio & Back-End: Express, MYSQL)
         - IT SERVICE LAB : 에너지 데이터 가이드라인(한국형 그린버튼)
         - IT SERVICE LAB : 에너지 데이터 가이드라인 평가 모델(한국형 그린버튼)    
 
