@@ -12,8 +12,10 @@ UNIVERSITY OF NORTHUMBRIA AT NEWCASTLE, ITMB(Information Technology Management f
         - 2023 서울과학기술대학교 창업동아리 (하이볼을 하루에 한 잔 무료로 제공하는 “하이볼 구독 어플리케이션, 하이볼리”)  
                 ▷ 2023 한이음 ICT 멘토링 
                 ▷ 2023 창업동아리 전담 멘토링 수료  
-                ▷ 2023 학생 창업유망팀 300 성장트랙(일반) 수료   
+                ▷ 2023 학생 창업유망팀 300 성장트랙(일반) 수료
                 ▷ 2023 하나 소셜벤처 유니버시티 수료  
+                ▷ 2023 
+
 
         - 2023 서울 노원지역 4개 대학 연합 창업캠프
         - 2023 IT Service Lab 학부연구생
@@ -27,6 +29,7 @@ UNIVERSITY OF NORTHUMBRIA AT NEWCASTLE, ITMB(Information Technology Management f
 
         - 2023 IT 서비스 공모전(개발) - 
         - 2023 IT 서비스 공모전(기획) - 
+        - 2023 핀테크 비즈니스모델 경진대회 - 
         - 2023 서울 노원지역 4개 대학 연합 ESG 창업 아이디어 경진대회 - 대상(Grand Award🏅)   
             제주도 골칫덩어리 구멍갈파래를 이용한 천연 염료 제작 및 판매 플랫폼 "풀빛"
         - 2023 학생 창업유망팀 300 성장(서울) 모의투자대회 - 1등(Grand Award🏅)
