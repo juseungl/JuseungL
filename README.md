@@ -51,6 +51,7 @@ UNIVERSITY OF NORTHUMBRIA AT NEWCASTLE, ITMB(Information Technology Management f
 
 
 💻 **I did project ...**
+
         - 창업동아리 : "하이볼리" Application (Back-End: Express, MYSQL)
         - Business Analytics Team Project : Electricity Prediction Model with Seoultech Mirae Hall's Weather Data
         - Mobile Programming Team Project : "PupHere" - Pet Care Integrated Platform (Android Stuido & Firebase )
