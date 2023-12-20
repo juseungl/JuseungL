@@ -45,18 +45,16 @@ UNIVERSITY OF NORTHUMBRIA AT NEWCASTLE, ITMB(Information Technology Management f
 
 
 ✍ **I get certified ...**
-
         - 컴퓨터활용능력 1급
         - IELTS 6.0/9.0
         🌱 I’m currently learning ...
 
 
 💻 **I did project ...**
-
         - 창업동아리 : "하이볼리" Application (Back-End: Express, MYSQL)
+        - Business Analytics Team Project : Electricity Prediction Model with Seoultech Mirae Hall's Weather Data
+        - Mobile Programming Team Project : "PupHere" - Pet Care Integrated Platform (Android Stuido & Firebase )
         - Database Practice Web Programming Team Project : "Twitter User Analaytics" - Big Data Analysis with Hadoop
-        - Business Analytics Team Project :   
-        - Mobile Programming Team Project : "다녀올개" 강아지 유치원 통합 플랫폼 Application (Front-End: Android Studio & Back-End: Express, MYSQL)
         - IT SERVICE LAB : 에너지 데이터 가이드라인(한국형 그린버튼)
         - IT SERVICE LAB : 에너지 데이터 가이드라인 평가 모델(한국형 그린버튼)    
 
