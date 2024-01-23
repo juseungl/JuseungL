@@ -9,7 +9,7 @@ UNIVERSITY OF NORTHUMBRIA AT NEWCASTLE, ITMB(Information Technology Management f
 
 📔 **I did ...**
 
-
+        - 2024 제 1회 대학연합 창업스쿨(성균관대학교&서울과학기술대학교&제주대학교 연합)
         - 2023 한국IT서비스학회 추계학술대회(2023.11.15)
                : AMI 에너지 데이터 마이데이터화 가이드라인 비교 연구
         - 2023 서울과학기술대학교 창업동아리 (하이볼을 하루에 한 잔 무료로 제공하는 “하이볼 구독 어플리케이션, 하이볼리”)  
@@ -28,7 +28,8 @@ UNIVERSITY OF NORTHUMBRIA AT NEWCASTLE, ITMB(Information Technology Management f
 
 🏆 **I got award ...**
 
-
+        - 2024 제 1회 대학연합 창업스쿨(성균관대학교&서울과학기술대학교&제주대학교 연합) - 우수상(2등)🥈
+            버려지는 귤껍질에서 추출한 펙틴을 활용한 하이드로겔 UV 차단 패치 "선파치" - 섬루션(Sumlution) 팀
         - 2023 서울 노원지역 4개 대학 연합 ESG 창업 아이디어 경진대회 - 대상🏅   
             제주도 골칫덩어리 구멍갈파래를 이용한 천연 염료 제작 및 판매 플랫폼 "풀빛"
         - 2023 학생 창업유망팀 300 성장(서울) 모의투자대회 - 1등🏅       
