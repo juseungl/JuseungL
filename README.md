@@ -49,6 +49,7 @@ UNIVERSITY OF NORTHUMBRIA AT NEWCASTLE, ITMB(Information Technology Management f
 
 
 ✍ **I get certified ...**
+
         - 컴퓨터활용능력 1급
         - IELTS 6.0/9.0
         🌱 I’m currently learning ...
