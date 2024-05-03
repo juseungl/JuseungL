@@ -57,6 +57,7 @@ UNIVERSITY OF NORTHUMBRIA AT NEWCASTLE, ITMB(Information Technology Management f
 
 
 💻 **I did project ...**
+
         - 창업 팀 : "Truss" Web Page (Back-End: Express, MYSQL, REDIS)
         - 창업동아리 : "하이볼리" Application (Back-End: Express, MYSQL)
         - Business Analytics Team Project : Electricity Prediction Model with Seoultech Mirae Hall's Weather Data
@@ -100,14 +101,15 @@ UNIVERSITY OF NORTHUMBRIA AT NEWCASTLE, ITMB(Information Technology Management f
   <br>
   
 </div>
-- Node JS (창업동아리)
-- JAVA (spring / operating systems design)
-- MySQL (database management)
-- KOTLIN (mobile programming)
-- PHP / JAVASCRIPT / HTML / CSS (database practice web programming)
-- PYTHON (programming language / data mining / business analytics)
-- C programming (operating systems design / computer system)
-- R (Introduction to statistical processing)
+
+        - Node JS (창업동아리)
+        - JAVA (spring / operating systems design)
+        - MySQL (database management)
+        - KOTLIN (mobile programming)
+        - PHP / JAVASCRIPT / HTML / CSS (database practice web programming)
+        - PYTHON (programming language / data mining / business analytics)
+        - C programming (operating systems design / computer system)
+        - R (Introduction to statistical processing)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuseungL&layout=compact&theme=tokyonight)   ![JuseungL's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuseungL&show_icons=true&theme=dark)   
