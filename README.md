@@ -9,6 +9,7 @@ UNIVERSITY OF NORTHUMBRIA AT NEWCASTLE, ITMB(Information Technology Management f
 
 📔 **I did ...**
 
+        - 2024 서울과학기술대학교 창업동아리 (모듈러 하우스 버티컬 플랫폼)
         - 2024 서울과학기술대학교 멋쟁이사자처럼 - 백엔드 파트
         - 2024 제 1회 대학연합 창업스쿨(성균관대학교&서울과학기술대학교&제주대학교 연합)
         - 2023 한국IT서비스학회 추계학술대회(2023.11.15)
