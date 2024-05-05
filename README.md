@@ -104,7 +104,7 @@ UNIVERSITY OF NORTHUMBRIA AT NEWCASTLE, ITMB(Information Technology Management f
 </div>
 
         - Node JS (창업동아리)
-        - JAVA (spring / operating systems design)
+        - JAVA (spring / operating systems design) 
         - MySQL (database management)
         - KOTLIN (mobile programming)
         - PHP / JAVASCRIPT / HTML / CSS (database practice web programming)
