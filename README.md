@@ -58,6 +58,7 @@ UNIVERSITY OF NORTHUMBRIA AT NEWCASTLE, ITMB(Information Technology Management f
 
 
 💻 **I did project ...**
+
         - 자체 프로젝트 : "Investi Mate" Web Site (Back-End: Spring Boot, MYSQL) AI를 활용한 주가 예측 및 솔루션 서비스
         - 창업 팀 : "Truss" Web Site (Back-End: Express, MYSQL, REDIS)
         - 창업동아리 : "하이볼리" Application (Back-End: Express, MYSQL)
