@@ -58,13 +58,17 @@ UNIVERSITY OF NORTHUMBRIA AT NEWCASTLE, ITMB(Information Technology Management f
 
 
 💻 **I did project ...**
-
+        <<개발>>
         - 자체 프로젝트 : "Investi Mate" Web Site (Back-End: Spring Boot, MYSQL) AI를 활용한 주가 예측 및 솔루션 서비스
         - 창업 팀 : "Truss" Web Site (Back-End: Express, MYSQL, REDIS)
         - 창업동아리 : "하이볼리" Application (Back-End: Express, MYSQL)
-        - Business Analytics Team Project : Electricity Prediction Model with Seoultech Mirae Hall's Weather Data
         - Mobile Programming Team Project : "PupHere" - Pet Care Integrated Platform (Android Stuido & Firebase )
+        
+        <<데이터>>
+        - Business Analytics Team Project : Electricity Prediction Model with Seoultech Mirae Hall's Weather Data
         - Database Practice Web Programming Team Project : "Twitter User Analaytics" - Big Data Analysis with Hadoop
+        
+        <<기획>>
         - IT SERVICE LAB : 에너지 데이터 가이드라인(한국형 그린버튼)
         - IT SERVICE LAB : 에너지 데이터 가이드라인 평가 모델(한국형 그린버튼)    
 
