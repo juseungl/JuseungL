@@ -46,17 +46,6 @@ UNIVERSITY OF NORTHUMBRIA AT NEWCASTLE, ITMB(Information Technology Management f
         - 2022 IT 서비스 공모전(기획) - 동상🥉
             Idea development of "자취 메이트" that contains everything necessary for self-employed students, such as furniture, meal kits, and a community for room transfer.
          
-
-    
-
-
-✍ **I get certified ...**
-
-        - 컴퓨터활용능력 1급
-        - IELTS 6.0/9.0
-        🌱 I’m currently learning ...
-
-
 💻 **I did project ...**
 
         <<개발>>
@@ -72,6 +61,16 @@ UNIVERSITY OF NORTHUMBRIA AT NEWCASTLE, ITMB(Information Technology Management f
         <<기획>>
         - IT SERVICE LAB : 에너지 데이터 가이드라인(한국형 그린버튼)
         - IT SERVICE LAB : 에너지 데이터 가이드라인 평가 모델(한국형 그린버튼)    
+
+
+
+✍ **I get certified ...**
+
+        - 컴퓨터활용능력 1급
+        - IELTS 6.0/9.0
+        🌱 I’m currently learning ...
+
+
 
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
