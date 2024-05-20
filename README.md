@@ -90,7 +90,6 @@ UNIVERSITY OF NORTHUMBRIA AT NEWCASTLE, ITMB(Information Technology Management f
           <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
           <img src="https://img.shields.io/badge/h2%20database-1C6EA4?style=for-the-badge&logo=h2&logoColor=white">
           <br>
-          <br>
           <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
           <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
           <img src="https://img.shields.io/badge/kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white">                
