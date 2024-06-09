@@ -1,11 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=LEE%20JUSEUNG&fontSize=90)
 
 Hi, I’m **LEE JUSEUNG👋**
-
-SEOUL NATIONAL UNIVERSITY OF SCIENCE AND TECHNOLOGY, ITM(Information Technology Management) 재학
-
-UNIVERSITY OF NORTHUMBRIA AT NEWCASTLE, ITMB(Information Technology Management for Business) 복수학위
-
+Seoul National University of Science and Technology, ITM(Information Technology - Management) 재학
+University of Northumbria at Newcastle, ITMB(Information Technology Management for Business) 복수학위
 
 📔 **I did ...**
 
