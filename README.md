@@ -8,8 +8,8 @@ University of Northumbria at Newcastle, ITMB(Information Technology Management f
 
 📔 **I did ...**
 
-        - 2024 K-HAKATHON 12 - 백엔드 개발
-        - 2024 하나 디지털 파워온 프로젝트 3기 - 백엔드 개발 & 클라우드 & 블록체인
+        - 2024 K-HAKATHON 12 본선 - 백엔드 개발 & 클라우드
+        - 2024 하나 디지털 파워온 프로젝트 3기 수료 - 백엔드 개발 & 클라우드 & 블록체인
         - 창업팀: 움집(Truss) - 모듈러 하우스 버티컬 플랫폼[백엔드 개발 & 클라우드]
                 ▷ 2024 서울과학기술대학교 창업동아리
                 ▷ 2024 학생 창업유망팀 300 성장트랙(서울)
