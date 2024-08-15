@@ -8,8 +8,8 @@ University of Northumbria at Newcastle, ITMB(Information Technology Management f
 
 📔 **I did ...**
 
-        - 2024 K-HACKATHON 12 본선
-                ▷ Fledge(백엔드 & 클라우드): 대한민국 자립 준비 청년을 위한 
+        - 2024 K-HACKATHON 12 본선 진출
+                ▷ Fledge(백엔드 & 클라우드): 대한민국 자립 준비 청년의 자립을 돕는 서비스
         - 2024 하나 디지털 파워온 프로젝트 3기 수료 - 백엔드 개발 & 클라우드 & 블록체인
                 ▷ HANA+LLM 한아름 (백엔드 & 클라우드): 금융 소외 계층을 위한 1대1 AI 은행원
         - 2024 멋쟁이사자처럼 12기 중앙 해커톤 본선 진출(8위 내)
