@@ -7,7 +7,7 @@ Seoul National University of Science and Technology, ITM(Information Technology 
 University of Northumbria at Newcastle, ITMB(Information Technology Management for Business) 복수학위
 
 📔 **I did ...**
-
+        
         - 2024 K-HACKATHON 12 본선 진출
                 ▷ Fledge(백엔드 & 클라우드): 대한민국 자립 준비 청년의 자립을 돕는 서비스
         - 2024 하나 디지털 파워온 프로젝트 3기 수료 - 백엔드 개발 & 클라우드 & 블록체인
@@ -37,7 +37,8 @@ University of Northumbria at Newcastle, ITMB(Information Technology Management f
 
 
 🏆 **I got award ...**
-
+        - 2024 SK telecom & 하나금융그룹 주최 TECH4GOOD 해커톤 - 우수상🥈
+            GPT-4o-mini모델을 활용한 시각장애인 대체 텍스트 자동 생성 크롬 확장 프로그램 "눈길"
         - 2024 제 1회 대학연합 창업스쿨(성균관대학교&서울과학기술대학교&제주대학교 연합) - 우수상(2등)🥈
             버려지는 귤껍질에서 추출한 펙틴을 활용한 하이드로겔 UV 차단 패치 "선파치" - 섬루션(Sumlution) 팀
         - 2023 서울 노원지역 4개 대학 연합 ESG 창업 아이디어 경진대회 - 대상(1등)🏅   
