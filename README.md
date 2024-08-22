@@ -37,6 +37,7 @@ University of Northumbria at Newcastle, ITMB(Information Technology Management f
 
 
 🏆 **I got award ...**
+
         - 2024 SK telecom & 하나금융그룹 주최 TECH4GOOD 해커톤 - 우수상🥈
             GPT-4o-mini모델을 활용한 시각장애인 대체 텍스트 자동 생성 크롬 확장 프로그램 "눈길"
         - 2024 제 1회 대학연합 창업스쿨(성균관대학교&서울과학기술대학교&제주대학교 연합) - 우수상(2등)🥈
