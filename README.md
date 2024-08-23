@@ -8,7 +8,7 @@ University of Northumbria at Newcastle, ITMB(Information Technology Management f
 
 📔 **I did ...**
 
-        - 2024 
+        - 2024 6th International Conference on Research in Engineering, Technology and Science (ICRETS) in Tashkent, Uzbekistan
                 ▷ A Customer-Based Management Study of Energy Use Data
         - 2024 K-HACKATHON 12 본선 진출
                 ▷ Fledge(백엔드 & 클라우드): 대한민국 자립 준비 청년의 자립을 돕는 서비스
