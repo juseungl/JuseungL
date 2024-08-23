@@ -8,7 +8,7 @@ University of Northumbria at Newcastle, ITMB(Information Technology Management f
 
 📔 **I did ...**
 
-        - 2024 6th International Conference on Research in Engineering, Technology and Science (ICRETS) in Tashkent, Uzbekistan
+        - 2024 6th International Conference on Research in Engineering, Technology and Science (ICRETS) 학회 in Tashkent, Uzbekistan
                 ▷ A Customer-Based Management Study of Energy Use Data
         - 2024 K-HACKATHON 12 본선 진출
                 ▷ Fledge(백엔드 & 클라우드): 대한민국 자립 준비 청년의 자립을 돕는 서비스
@@ -23,12 +23,12 @@ University of Northumbria at Newcastle, ITMB(Information Technology Management f
         - 2023 한국IT서비스학회 추계학술대회(2023.11.15)
                : AMI 에너지 데이터 마이데이터화 가이드라인 비교 연구
         - 창업팀: 하이볼리(Highbally) - 하이볼을 하루에 한 잔 무료로 제공하는 “하이볼 구독 어플리케이션 [백엔드 개발 & 클라우드]
-                ▷ 2023 서울과학기술대학교 창업동아리 (, 하이볼리”)  
+                ▷ 2023 서울과학기술대학교 창업동아리
                 ▷ 2023 한이음 ICT 멘토링 
                 ▷ 2023 창업동아리 전담 멘토링 수료  
-                ▷ 2023 하나 소셜벤처 유니버시티 수료 
-                ▷ 2023 학생 창업유망팀 300 성장트랙(서울)
-                ▷ 시기적절 창업대회
+        - 2023 하나 소셜벤처 유니버시티 수료 
+        - 2023 학생 창업유망팀 300 성장트랙(서울)
+        - 2023 시기적절 창업대회
         - 2023 IT Service Lab 학부연구생
         - 2023 Microsoft와 함께하는 대학생 AI & Cloud 러닝 캠프 by MLSA
         - 2022 IT Service Lab 학부연구생
