@@ -73,15 +73,6 @@ University of Northumbria at Newcastle, ITMB(Information Technology Management f
         - IT SERVICE LAB : 에너지 데이터 가이드라인 평가 모델(한국형 그린버튼)    
 
 
-
-✍ **I get certified ...**
-
-        - 컴퓨터활용능력 1급
-        - IELTS 6.0/9.0
-        🌱 I’m currently learning ...
-
-
-
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
           <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
@@ -105,6 +96,16 @@ University of Northumbria at Newcastle, ITMB(Information Technology Management f
           <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
           <br>
 </div>
+
+
+
+✍ **I get certified ...**
+
+        - 컴퓨터활용능력 1급
+        - IELTS 6.0/9.0
+        🌱 I’m currently learning ...
+
+
 
         - Node JS (창업동아리)
         - JAVA (spring / operating systems design) 
