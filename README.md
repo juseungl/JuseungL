@@ -107,16 +107,6 @@ University of Northumbria at Newcastle, ITMB(Information Technology Management f
 
 
 
-        - Node JS (창업동아리)
-        - JAVA (spring / operating systems design) 
-        - MySQL (database management)
-        - KOTLIN (mobile programming)
-        - PHP / JAVASCRIPT / HTML / CSS (database practice web programming)
-        - PYTHON (programming language / data mining / business analytics)
-        - C programming (operating systems design / computer system)
-        - R (Introduction to statistical processing)
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuseungL&layout=compact&theme=tokyonight)   ![JuseungL's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuseungL&show_icons=true&theme=dark)   
 
 📫 How to contact me ...  
