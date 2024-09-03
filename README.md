@@ -10,7 +10,7 @@ University of Northumbria at Newcastle, ITMB(Information Technology Management f
 
         - 2024 6th International Conference on Research in Engineering, Technology and Science (ICRETS) 학회 in Tashkent, Uzbekistan
                 ▷ A Customer-Based Management Study of Energy Use Data
-        - 2024 K-HACKATHON 12 본선 진출
+        - 2024 K-HACKATHON 12 본선 진출(215팀 중 11위 내)
                 ▷ Fledge(백엔드 & 클라우드): 대한민국 자립 준비 청년의 자립을 돕는 서비스
         - 2024 하나 디지털 파워온 프로젝트 3기 수료 - 백엔드 개발 & 클라우드
                 ▷ HANA+LLM 한아름 (백엔드 & 클라우드): 금융 소외 계층을 위한 1대1 AI 은행원
