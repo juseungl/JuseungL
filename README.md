@@ -7,7 +7,7 @@ Seoul National University of Science and Technology, ITM(Information Technology 
 University of Northumbria at Newcastle, ITMB(Information Technology Management for Business) 복수학위
 
 📔 **I did ...**
-
+        - 2024/2025 GDSC-Seoultech 4기 Member - 백엔트 파트
         - 2024 SEPTEMBER 정보와 통신 한국통신학회지 Vol.41 No.9 - 주제명 : 스마트그리드를 더욱 스마트하게 만드는 핵심_ AMI(Advanced Metering Infrastructure) 
                 ▷ 마이 홈 데이터 기반 에너지 사용량 데이터 관리 방안
         - 2024 6th International Conference on Research in Engineering, Technology and Science (ICRETS) 학회 in Tashkent, Uzbekistan
@@ -21,7 +21,7 @@ University of Northumbria at Newcastle, ITMB(Information Technology Management f
         - 창업팀 - 움집(백엔드 개발 & 클라우드): 모듈러 하우스 버티컬 플랫폼
                 ▷ 2024 서울과학기술대학교 창업동아리
                 ▷ 2024 학생 창업유망팀 300 성장트랙(서울)
-        - 2024 서울과학기술대학교 멋쟁이사자처럼 - 백엔드 파트
+        - 2024 서울과학기술대학교 멋쟁이사자처럼 아기사자 - 백엔드 파트
         - 2023 한국IT서비스학회 추계학술대회(2023.11.15)
                : AMI 에너지 데이터 마이데이터화 가이드라인 비교 연구
         - 창업팀: 하이볼리(Highbally) - 하이볼을 하루에 한 잔 무료로 제공하는 “하이볼 구독 어플리케이션 [백엔드 개발 & 클라우드]
