@@ -101,7 +101,6 @@ University of Northumbria at Newcastle, ITMB(Information Technology Management f
 </div>
 
 
-
 ✍ **I get certified ...**
 
         - 컴퓨터활용능력 1급
