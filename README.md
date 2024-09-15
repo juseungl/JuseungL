@@ -6,8 +6,9 @@ Seoul National University of Science and Technology, ITM(Information Technology 
 
 University of Northumbria at Newcastle, ITMB(Information Technology Management for Business) 복수학위
 
-📔 **I did ...**
+📔 **I did ... (대외활동)**
 
+        - 2024 AWS Clouds Club SEOULTECH 2기
         - 2024/2025 GDSC-Seoultech 4기 Member - 백엔트 파트
         - 2024 SEPTEMBER 정보와 통신 한국통신학회지 Vol.41 No.9 - 주제명 : 스마트그리드를 더욱 스마트하게 만드는 핵심_ AMI(Advanced Metering Infrastructure) 
                 ▷ 마이 홈 데이터 기반 에너지 사용량 데이터 관리 방안
