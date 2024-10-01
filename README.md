@@ -100,6 +100,7 @@ University of Northumbria at Newcastle, ITMB(Information Technology Management f
           <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
           <img src="https://img.shields.io/badge/kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white">                
           <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+          <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
           <br>
 </div>
 
