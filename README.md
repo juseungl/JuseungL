@@ -8,8 +8,10 @@ University of Northumbria at Newcastle, ITMB(Information Technology Management f
 
 📔 **I did ... (대외활동)**
 
-        - 2024 하나 디지털 파워온 프로젝트 3기 - 백엔드
+        - 2024 하나 디지털 파워온 프로젝트 3기 - 백엔드 & 클라우드
                 ▷ 머신러닝 및 OCR을 통한 전세 사기 탐지 및 경고 서비스
+        - 2024 제 13회 피우다 브로젝트(환경 문제 해결) 본선 진출 (300팀 중 20팀)
+                ▷ 탄지(백엔드 파트 & 클라우드) : 디지털 탄소 감축을 유도하는 크롬 익스텐션 기반 서비스
         - 2024 AWS Clouds Club SEOULTECH 2기
         - 2024/2025 GDSC-Seoultech 4기 Member - 백엔트 파트
         - 2024 SEPTEMBER 정보와 통신 한국통신학회지 Vol.41 No.9 - 주제명 : 스마트그리드를 더욱 스마트하게 만드는 핵심_ AMI(Advanced Metering Infrastructure) 
