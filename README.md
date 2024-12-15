@@ -7,22 +7,21 @@ Seoul National University of Science and Technology, ITM(Information Technology 
 University of Northumbria at Newcastle, ITMB(Information Technology Management for Business) 복수학위
 
 📔 **I did ... (대외활동)**
-
-        - 2024 하나 디지털 파워온 프로젝트 3기 - 백엔드 & 클라우드
+        
+        - 2024 하나 디지털 파워온 프로젝트 3기 수료 - 백엔드 & 클라우드
                 ▷ 머신러닝 및 OCR을 통한 전세 사기 탐지 및 경고 서비스
+                ▷ HANA+LLM 한아름 (백엔드 & 클라우드): 금융 소외 계층을 위한 1대1 AI 은행원
         - 2024 제 13회 피우다 브로젝트(환경 문제 해결) 본선 진출
-                ▷ 탄지(백엔드 파트 & 클라우드) : 디지털 탄소 감축을 유도하는 크롬 익스텐션 기반 서비스
+                ▷ 탄지(백엔드 & 클라우드) : 디지털 탄소 감축을 유도하는 크롬 익스텐션 기반 서비스
         - 2024 AWS Clouds Club SEOULTECH 2기
         - 2024/2025 GDSC-Seoultech 4기 Member - 백엔트 파트
-        - 2024 SEPTEMBER 정보와 통신 한국통신학회지 Vol.41 No.9 - 주제명 : 스마트그리드를 더욱 스마트하게 만드는 핵심_ AMI(Advanced Metering Infrastructure) 
+        - 2024 SEPTEMBER 정보와 통신 한국통신학회지 Vol.41 No.9 - 주제명 : 스마트그리드를 더욱 스마트하게 만드는 핵심 AMI(Advanced Metering Infrastructure) 
                 ▷ 마이 홈 데이터 기반 에너지 사용량 데이터 관리 방안
         - 2024 6th International Conference on Research in Engineering, Technology and Science (ICRETS) 학회 in Tashkent, Uzbekistan
                 ▷ A Customer-Based Management Study of Energy Use Data
-        - 2024 K-HACKATHON 12 본선 진출(215팀 중 11위 내)
+        - 2024 K-HACKATHON 12 본선 진출(215개 팀 중 11개 팀에 선정)
                 ▷ Fledge(백엔드 & 클라우드): 대한민국 자립 준비 청년의 자립을 돕는 서비스
-        - 2024 하나 디지털 파워온 프로젝트 3기 수료 - 백엔드 개발 & 클라우드
-                ▷ HANA+LLM 한아름 (백엔드 & 클라우드): 금융 소외 계층을 위한 1대1 AI 은행원
-        - 2024 멋쟁이사자처럼 12기 중앙 해커톤 본선 진출(8위 내)
+        - 2024 멋쟁이사자처럼 12기 중앙 해커톤 본선 진출(306개 팀 중 상위 8개 팀에 선정)
                 ▷ Voice Label(백엔드 & 클라우드 & Teachable Machine 학습 및 연결): Teachable Machine의 Image classifier를 활용한 시각장애인 맞춤형 상품 분류 서비스
         - 창업팀 - 움집(백엔드 개발 & 클라우드): 모듈러 하우스 버티컬 플랫폼
                 ▷ 2024 서울과학기술대학교 창업동아리
@@ -46,6 +45,8 @@ University of Northumbria at Newcastle, ITMB(Information Technology Management f
 
 🏆 **I got award ...**
 
+        - 2024 하나 디지털 파워온 프로젝트 3기 - 우수상🥈
+                ▷ OCR과 파인튜닝 모델을 통한 대한민국 전세사기 탐지 및 경고 서비스
         - 2024 SK telecom & 하나금융그룹 주최 TECH4GOOD 해커톤 - 우수상🥈
                 ▷ 눈길(백엔드 & 클라우드 & AI): GPT-4o mini 모델을 활용한 시각장애인 대체 텍스트(img alt tag) 자동 생성 크롬 확장 프로그램
         - 2024 제 1회 대학연합 창업스쿨(성균관대학교&서울과학기술대학교&제주대학교 연합) - 우수상(2등)🥈
@@ -110,6 +111,7 @@ University of Northumbria at Newcastle, ITMB(Information Technology Management f
 
 ✍ **I get certified ...**
 
+        - SQLD
         - 컴퓨터활용능력 1급
         - IELTS 6.0/9.0
         🌱 I’m currently learning ...
