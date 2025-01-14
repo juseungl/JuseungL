@@ -112,6 +112,7 @@ University of Northumbria at Newcastle, ITMB(Information Technology Management f
 
 ✍ **I get certified ...**
 
+        - AWS Certified Solutions Architect - Associate
         - SQLD
         - 컴퓨터활용능력 1급
         - IELTS 6.0/9.0
