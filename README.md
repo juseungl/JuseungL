@@ -85,6 +85,7 @@ University of Northumbria at Newcastle, ITMB(Information Technology Management f
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
           <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+          <img src="https://img.shields.io/badge/AWS%20Certified-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
           <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
           <br>
           <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
@@ -112,10 +113,11 @@ University of Northumbria at Newcastle, ITMB(Information Technology Management f
 
 ✍ **I get certified ...**
 
-        - AWS Certified Solutions Architect - Associate
+        - AWS Certified Solutions Architect - Associate 
         - SQLD
-        - 컴퓨터활용능력 1급
+        - 외국어말하기평가 OPICs(영어) IH(Intermediate High)등급
         - IELTS 6.0/9.0
+        - 컴퓨터활용능력 1급
         🌱 I’m currently learning ...
 
 ☕️ **Coding Test Study**
