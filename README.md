@@ -8,6 +8,7 @@ University of Northumbria at Newcastle, ITMB(Information Technology Management f
 
 📔 **I did ... (대외활동)**
         
+        - 2025 Endless Creation 35기 - CS Study
         - 2024 하나 디지털 파워온 프로젝트 3기 수료
                 ▷ 떼이지마! 전세원큐(백엔드 & 클라우드): 머신러닝 및 OCR을 통한 전세 사기 탐지 및 경고 서비스
                 ▷ HANA+LLM 한아름(기획): 금융 소외 계층을 위한 1대1 AI 은행원
