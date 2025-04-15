@@ -105,15 +105,15 @@ University of Northumbria at Newcastle, ITMB(Information Technology Management f
 
 ✍ **I get certified ...**
 
+        자격증
         - AWS Certified Solutions Architect - Associate 
         - SQLD
+        - 컴퓨터활용능력 1급
+
+        어학
         - 외국어말하기평가 OPICs(영어) IH(Intermediate High)등급
         - IELTS 6.0/9.0
-        - 컴퓨터활용능력 1급
         🌱 I’m currently learning ...
-
-☕️ **Coding Test Study**
-https://github.com/JuseungL/CodingTest-JAVAV
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuseungL&layout=compact&theme=tokyonight)   ![JuseungL's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuseungL&show_icons=true&theme=dark)   
