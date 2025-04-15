@@ -20,8 +20,6 @@ University of Northumbria at Newcastle, ITMB(Information Technology Management f
         - 2024/2025 GDSC-Seoultech 4기 Member - 백엔트 파트
         - 2024 SEPTEMBER 정보와 통신 한국통신학회지 Vol.41 No.9 - 주제명 : 스마트그리드를 더욱 스마트하게 만드는 핵심 AMI(Advanced Metering Infrastructure) 
                 ▷ 마이 홈 데이터 기반 에너지 사용량 데이터 관리 방안
-        - 2024 6th International Conference on Research in Engineering, Technology and Science (ICRETS) 학회 in Tashkent, Uzbekistan
-                ▷ A Customer-Based Management Study of Energy Use Data
         - 2024 K-HACKATHON 12 본선 진출(215개 팀 중 11개 팀에 선정)
                 ▷ Fledge(백엔드 & 클라우드): 대한민국 자립 준비 청년의 자립을 돕는 서비스
         - 2024 멋쟁이사자처럼 12기 중앙 해커톤 본선 진출(306개 팀 중 상위 8개 팀에 선정)
@@ -68,19 +66,10 @@ University of Northumbria at Newcastle, ITMB(Information Technology Management f
         - 2022 IT 서비스 공모전(기획) - 동상🥉
                 ▷ Idea development of "자취 메이트" that contains everything necessary for self-employed students, such as furniture, meal kits, and a community for room transfer.
          
-💻 **I did project ...**
+💻 **IT Service LAB**
 
-        <<개발>>
-        - 자체 프로젝트 : "Investi Mate" Web Site (Back-End: Spring Boot, MYSQL) AI를 활용한 주가 예측 및 솔루션 서비스
-        - 창업 팀 : "Truss" Web Site (Back-End: Express, MYSQL, REDIS)
-        - 창업동아리 : "하이볼리" Application (Back-End: Express, MYSQL)
-        - Mobile Programming Team Project : "PupHere" - Pet Care Integrated Platform ( Android Stuido & Firebase )
-        
-        <<데이터>>
-        - Business Analytics Team Project : Electricity Prediction Model with Seoultech Mirae Hall's Weather Data
-        - Database Practice Web Programming Team Project : "Twitter User Analaytics" - Big Data Analysis with Hadoop
-        
-        <<기획>>
+        - 2024 SEPTEMBER 정보와 통신 한국통신학회지 Vol.41 No.9 - 주제명 : 스마트그리드를 더욱 스마트하게 만드는 핵심 AMI(Advanced Metering Infrastructure) 
+        - 2023 한국IT서비스학회 추계학술대회(2023.11.15)
         - IT SERVICE LAB : 에너지 데이터 가이드라인(한국형 그린버튼)
         - IT SERVICE LAB : 에너지 데이터 가이드라인 평가 모델(한국형 그린버튼)    
 
