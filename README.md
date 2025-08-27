@@ -8,6 +8,8 @@ University of Northumbria at Newcastle, ITMB(Information Technology Management f
 
 📔 **I did ... (대외활동)**
         
+        - 2026 JUNCTION ASIA 2025 | Microsoft & Gyeongsangbuk-do & Postech Track
+                ▷ Safe evacuation and routing service in Pohang, Gyeongsangbuk-do, using CNN-based next-day wildfire prediction
         - 2025 Drinkly: 하루에 한 번 무료 주류를 제공하는 구독형 애플리케이션 서비스 [백엔드 개발 & 클라우드]
                 ▷ 소상공인을 위한 CRM 기반 마케팅 지원
         - 2025 Endless Creation 35기 - CS Study
@@ -46,6 +48,8 @@ University of Northumbria at Newcastle, ITMB(Information Technology Management f
 
 🏆 **I got award ...**
 
+        - 2026 JUNCTION ASIA 2025 | Microsoft & Gyeongsangbuk-do & Postech Track Winner 1등 🏅
+                ▷ Safe evacuation and routing service in Pohang, Gyeongsangbuk-do, using CNN-based next-day wildfire prediction
         - 2024 하나 디지털 파워온 프로젝트 3기 - 우수상🥈
                 ▷ OCR과 파인튜닝 모델을 통한 대한민국 전세사기 탐지 및 경고 서비스
         - 2024 SK telecom & 하나금융그룹 주최 TECH4GOOD 해커톤 - 우수상🥈
